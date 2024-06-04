@@ -58,21 +58,83 @@ python manage.py runserver
 
 <table width="100%"> 
 <tr>
-<td width="50%">      
+<td width="10%">      
 &nbsp; 
 <br>
 <p align="center">
-  Feed Home
+  Image 1
 </p>
-<img src="https://github.com/omuskaikar/Django-/blob/main/Screenshot%202024-06-04%20224121.png">
+<img src="https://raw.githubusercontent.com/omuskaikar/Django-/main/1.png">
 </td> 
-<td width="50%">
+<td width="10%">
 <br>
 <p align="center">
-  Room Conversation Preview
+  Image 2
 </p>
-<img src="https://github.com/omuskaikar/Django-/blob/main/Screenshot%202024-06-04%20224034.png">  
+<img src="https://raw.githubusercontent.com/omuskaikar/Django-/main/2.png">  
 </td>
+<td width="10%">      
+&nbsp; 
+<br>
+<p align="center">
+  Image 3
+</p>
+<img src="https://raw.githubusercontent.com/omuskaikar/Django-/main/3.png">
+</td> 
+<td width="10%">
+<br>
+<p align="center">
+  Image 4
+</p>
+<img src="https://raw.githubusercontent.com/omuskaikar/Django-/main/4.png">  
+</td>
+<td width="10%">      
+&nbsp; 
+<br>
+<p align="center">
+  Image 5
+</p>
+<img src="https://raw.githubusercontent.com/omuskaikar/Django-/main/5.png">
+</td> 
+<td width="10%">
+<br>
+<p align="center">
+  Image 6
+</p>
+<img src="https://raw.githubusercontent.com/omuskaikar/Django-/main/6.png">  
+</td>
+<td width="10%">      
+&nbsp; 
+<br>
+<p align="center">
+  Image 7
+</p>
+<img src="https://raw.githubusercontent.com/omuskaikar/Django-/main/7.png">
+</td> 
+<td width="10%">
+<br>
+<p align="center">
+  Image 8
+</p>
+<img src="https://raw.githubusercontent.com/omuskaikar/Django-/main/8.png">  
+</td>
+<td width="10%">      
+&nbsp; 
+<br>
+<p align="center">
+  Image 9
+</p>
+<img src="https://raw.githubusercontent.com/omuskaikar/Django-/main/9.png">
+</td> 
+<td width="10%">
+<br>
+<p align="center">
+  Image 10
+</p>
+<img src="https://raw.githubusercontent.com/omuskaikar/Django-/main/10.png">  
+</td>
+</tr>
 </table>
+
 
 
