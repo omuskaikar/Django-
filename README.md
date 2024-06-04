@@ -51,7 +51,7 @@ python manage.py runserver
 ```
 
 > ⚠ Then, the development server will be started at http://127.0.0.1:8000/
-
+[Click Here to see the Website](https://django-z1ovqxx2n-omuskaikars-projects.vercel.app/)
 #
 
 ### App Preview :
