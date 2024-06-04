@@ -55,14 +55,13 @@ python manage.py runserver
 #
 
 ### App Preview :
-
 <table width="100%"> 
   <tr>
     <td width="50%">      
       &nbsp; 
       <br>
       <p align="center">
-        Image 1
+        Rooms Page
       </p>
       <img src="https://raw.githubusercontent.com/omuskaikar/Django-/main/1.png">
     </td> 
@@ -70,7 +69,7 @@ python manage.py runserver
       &nbsp; 
       <br>
       <p align="center">
-        Image 2
+        Update Profile
       </p>
       <img src="https://raw.githubusercontent.com/omuskaikar/Django-/main/2.png">
     </td> 
@@ -80,43 +79,43 @@ python manage.py runserver
       &nbsp; 
       <br>
       <p align="center">
-        Image 3
-      </p>
-      <img src="https://raw.githubusercontent.com/omuskaikar/Django-/main/3.png">
-    </td> 
-    <td width="50%">      
-      &nbsp; 
-      <br>
-      <p align="center">
-        Image 4
-      </p>
-      <img src="https://raw.githubusercontent.com/omuskaikar/Django-/main/4.png">
-    </td> 
-  </tr>
-  <tr>
-    <td width="50%">      
-      &nbsp; 
-      <br>
-      <p align="center">
-        Image 5
-      </p>
-      <img src="https://raw.githubusercontent.com/omuskaikar/Django-/main/5.png">
-    </td> 
-    <td width="50%">      
-      &nbsp; 
-      <br>
-      <p align="center">
-        Image 6
+        Login
       </p>
       <img src="https://raw.githubusercontent.com/omuskaikar/Django-/main/6.png">
     </td> 
+    <td width="50%">      
+      &nbsp; 
+      <br>
+      <p align="center">
+        Chatting in Room
+      </p>
+      <img src="https://raw.githubusercontent.com/omuskaikar/Django-/main/3.png">
+    </td> 
   </tr>
   <tr>
     <td width="50%">      
       &nbsp; 
       <br>
       <p align="center">
-        Image 7
+        Room Creation
+      </p>
+      <img src="https://raw.githubusercontent.com/omuskaikar/Django-/main/4.png">
+    </td> 
+    <td width="50%">      
+      &nbsp; 
+      <br>
+      <p align="center">
+        Authentication Required
+      </p>
+      <img src="https://raw.githubusercontent.com/omuskaikar/Django-/main/5.png">
+    </td> 
+  </tr>
+  <tr>
+    <td width="50%">      
+      &nbsp; 
+      <br>
+      <p align="center">
+        Registration
       </p>
       <img src="https://raw.githubusercontent.com/omuskaikar/Django-/main/7.png">
     </td> 
@@ -124,27 +123,9 @@ python manage.py runserver
       &nbsp; 
       <br>
       <p align="center">
-        Image 8
-      </p>
-      <img src="https://raw.githubusercontent.com/omuskaikar/Django-/main/8.png">
-    </td> 
-  </tr>
-  <tr>
-    <td width="50%">      
-      &nbsp; 
-      <br>
-      <p align="center">
-        Image 9
+        Filter
       </p>
       <img src="https://raw.githubusercontent.com/omuskaikar/Django-/main/9.png">
-    </td> 
-    <td width="50%">      
-      &nbsp; 
-      <br>
-      <p align="center">
-        Image 10
-      </p>
-      <img src="https://raw.githubusercontent.com/omuskaikar/Django-/main/10.png">
     </td> 
   </tr>
 </table>
